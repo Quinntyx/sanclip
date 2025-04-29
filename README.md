@@ -1,4 +1,4 @@
-## clipsan
+## sanclip
 
 Blazingly fast clipboard sanitizer daemon. 
 
